@@ -26,4 +26,8 @@ In this project, you will deploy a static website to AWS by performing the follo
 #### Prerequisites
  <ul>
    <li>AWS Account</li>
-  <li><a href="Student-ready starter code"> - Download and unzip this file.</li>
+  <li>Student-ready starter code </li> </ul>
+##Contact
+<ul> <li>
+Doreen Tenai @dntenai@gmail.com</li>
+<li>Project Link http://my-435182424202-bucket.s3-website-us-east-1.amazonaws.com</li>
